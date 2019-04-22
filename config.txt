@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=-
+game=Mo7med MUSIC | -play
+stayinchannel=true
+songinstatus=false
+token=NTY5ODc1NzE0ODEyMTQ5NzYw.XL3Aew.yXcONxoxq9r8GKFc8EfqxmnXwvI
